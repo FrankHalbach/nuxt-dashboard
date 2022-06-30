@@ -1,0 +1,18 @@
+[
+  {
+    "region": "Americas",
+    "plants": ["VEM", "Reynosa", "Manaus"]
+  },
+  {
+    "region": "EU",
+    "plants": ["Palmela", "Namestovo", "Tunisia"]
+  },
+  {
+    "region": "China",
+    "plants": ["Songjiang", "SVAE", "VFAE", "Chongqing"]
+  },
+  {
+    "region": "ROA",
+    "plants": ["VASI", "VJLVHP", "VJLXD", "VETL"]
+  }
+]

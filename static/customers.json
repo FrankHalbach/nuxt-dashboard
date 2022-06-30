@@ -1,0 +1,35 @@
+[
+  {
+    "group": "G CBG",
+    "customers": ["Volkswagen Group", "Mercedes-Benz Group", "BMW Group"]
+  },
+  {
+    "group": "E CBG",
+    "customers": ["Renault Group", "Stellantis Group", "JLR Group"]
+  },
+  {
+    "group": "A CBG",
+    "customers": ["Ford Group", "General Motors Group", "Harley-Davidson"]
+  },
+  {
+    "group": "J CBG",
+    "customers": [
+      "Mazda Group",
+      "Honda Group",
+      "Nissan Group",
+      "Mitsubishi Group"
+    ]
+  },
+  {
+    "group": "K CBG",
+    "customers": ["Hyundai Group"]
+  },
+  {
+    "group": "I CBG",
+    "customers": ["Tata Group", "Mahindra Group", "Royal Enfield Group"]
+  },
+  {
+    "group": "C CBG",
+    "customers": ["Geely Group", "Dongfeng Group", "SGM", "JMC", "SVW"]
+  }
+]
